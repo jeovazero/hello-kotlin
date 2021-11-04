@@ -1,0 +1,6 @@
+.
+!gradle.properties
+!settings.gradle.kts
+!app/src
+build
+db/migration
